@@ -1,0 +1,21 @@
+{
+  "name": "template-monorepo",
+  "version": "0.0.1",
+  "description": "monorepo 脚手架",
+  "license": "ISC",
+  "author": "gem-mine team",
+  "scripts": {
+    "test": "./test.js"
+  },
+  "engines": {
+    "node": ">=8.3"
+  },
+  "template-config": {
+    "composable": true,
+    "packageManager": "yarn"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "fs-extra": "^9.0.1"
+  }
+}

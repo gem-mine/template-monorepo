@@ -1,0 +1,11 @@
+node_modules
+yarn-error.*
+lerna-error.*
+
+lib
+es
+dist
+build
+report
+
+tsconfig.lib.tsbuildinfo
