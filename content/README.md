@@ -7,8 +7,13 @@
   yarn
 ```
 
-- 添加 packages 内相互依赖
+```bash
+  # 创建一个新的子包
+  npx lerna create <name>
 ```
+
+- 添加 packages 内相互依赖
+```bash
   yarn workspace moduleA add moduleB@<version> // packages 内依赖必须带版本号
 ```
 
