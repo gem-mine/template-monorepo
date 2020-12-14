@@ -11,5 +11,4 @@
 * 强制使用 TS
 
 ## TODO
-* @gem-mine/script-rollup 有 bug，待发布
 * @gem-mine/cli-plugin-jest 有 bug，待发布
